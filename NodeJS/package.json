@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "this is my node js application",
+  "homepage": "https://github.com/prathamesh-korde/Node#readme",
+  "bugs": {
+    "url": "https://github.com/prathamesh-korde/Node/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathamesh-korde/Node.git"
+  },
+  "license": "ISC",
+  "author": "prathamesh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
